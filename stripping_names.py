@@ -7,3 +7,5 @@ print(name.strip())
 print(name.upper().strip())
 print(name.lower().strip())
 print(name.title().strip())
+2+3*4
+(2+3)*4
