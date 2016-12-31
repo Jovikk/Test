@@ -9,3 +9,4 @@ print(name.lower().strip())
 print(name.title().strip())
 print(2+3*4)
 print((2+3)*4)
+#see, now it works.
